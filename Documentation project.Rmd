@@ -1,0 +1,149 @@
+---
+title: "Documentation Project"
+author: "Luke Huntley"
+date: '`r format(Sys.time(), "%A, %B %d, %Y @ %I:%M %p")`'
+output: 
+    html_document: 
+    theme: spacelab
+    highlight: textmate
+---
+
+```{r globaloptions, include = FALSE}
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  comment = NA
+)
+```
+
+#  {.tabset .tabset-pills}
+
+## Main
+
+### MineCraft
+
+Explore a new world with Minecraft, Survive in a world where you where you can make or create anything you want! this page is a help page to show new Users how to download and start playing minecraft today
+
+![](https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png)
+
+### What is MineCraft?
+
+Minecraft is a online game on multiple platforms such as PC, Xbox and PlayStation. It a sandbox game which gives users the ability to play or create anything they want. Minecraft was released in 2011 and was created by Marcus "Notch" Persson.
+
+### Download
+
+You an purchase and download Minecraft for PC [Here](https://www.minecraft.net/en-us/store/minecraft-windows10).
+
+[Click here](#how-to-download) for how to Download
+
+### Getting Started {#getting-started}
+
+If you've already downloaded Minecraft [Click Here](#getting-started).
+
+### Help
+
+If you need help you can contact me at [huntleyls@appstate.edu](mailto:huntleyls@appstate.edu){.email}
+
+You can find help from other people in the Minecraft community [Here.](https://www.minecraftforum.net/){target="blank"}
+
+Also, you can get direct help [Here.](https://help.minecraft.net/hc/en-us){target="blank"}
+
+<hr>
+
+## How To Download {#how-to-download}
+
+### Step 1
+
+Follow this link [Here](https://www.minecraft.net/en-us/store/minecraft-windows10).
+
+Click On Buy!
+
+![](step1.PNG)
+
+### Step 2
+
+Create a Mojang acount on the Minecraft Website.
+
+![](step2.PNG)
+
+### Step 3
+
+Input a payment method and purchase MineCraft.
+
+![](step3.PNG)
+
+### Step 4
+
+Click the Download button.
+
+![](step4.PNG)
+
+### Step 5
+
+Run the MinecraftInstaller.exe File.
+
+![](step5.PNG)
+
+### Step 6
+
+Follow the instructions and let it download.
+
+![](step6.PNG)
+
+### Finished Downloading
+
+You have downloaded Minecraft!!
+
+![](done.PNG)
+
+Click the Getting Started tab to learn how to start playing MineCraft.
+
+<hr>
+
+## Getting Started
+
+### Login to Minecraft
+
+![](gs1.PNG)
+
+### Click The Play Button
+
+![](gs2.PNG)
+
+### Click Single player
+
+![](gs3.PNG)
+
+### Click Create New World
+
+* Name Your World.
+* Click Creative or Survival 
+* Click Create New World.
+
+![](gs4.PNG)
+
+### Start Playing!!
+
+![](gs5.PNG)
+
+<hr>
+
+## Minecraft Keyboard Controls
+
+**This is the Basic Controls for Minecraft**
+
+![](controls.png)
+
+## Author
+
+### Luke Huntley
+
+**About**
+
+I am a Junior Computer Science major at Appalachian State University. This is my Documentation project for my Technical Writing course.
+
+**Contact**
+You can contact me at [huntleyls@appstate.edu](mailto:huntleyls@appstate.edu){.email}
+
+
+<hr>
